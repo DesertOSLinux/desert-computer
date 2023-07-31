@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=DesertComputer
+GenericName=Desert Computer
+Comment=UI for information and management of disks on your computer
+Exec=desert-computer
+Icon=desert-computer
+Terminal=false
+Type=Application
+Categories=Desert;Program;
+StartupNotify=true
+Keywords=computer,mycomputer,desert

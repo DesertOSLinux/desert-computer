@@ -1,0 +1,9 @@
+Package: desert-computer
+Version: 1.0
+Architecture: all
+Maintainer: Kernitskiy Yaroslav <yaroslavsadova1@gmail.com>
+Installed-Size: 154
+Depends: python3-gi, python3 (>= 3.5), gir1.2-glib-2.0, gir1.2-gtk-3.0
+Section: utils
+Priority: optional
+Description: Информация о дисках и съёмных устройствах
